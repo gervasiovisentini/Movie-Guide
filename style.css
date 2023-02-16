@@ -10,7 +10,11 @@
 
 body{
     height: 100vh;
-    background: linear-gradient(#1c1917 50%, #ffb92a 50%);
+    /*Background options*/
+    /*background: linear-gradient(#1c1917 50%, #ffb92a 50%);*/
+    /*background-image: linear-gradient(-225deg, #473B7B 0%, #3584A7 51%, #30D2BE 100%);*/
+    background: linear-gradient(to bottom, #283048, #859398);
+
 }
 
 .container{
